@@ -28,3 +28,13 @@ a {
     display: flex;
     gap: 20px;
 }
+
+.hero-container {
+    display: flex;
+}
+
+.left-col h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
