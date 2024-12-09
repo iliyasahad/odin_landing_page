@@ -18,6 +18,12 @@ body {
     color: #F9FAF8;
 }
 
+.nav-buttons ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
 
 .page-container {
     background-color: red;
