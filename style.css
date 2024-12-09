@@ -13,25 +13,25 @@ body {
 }
 
 .page-container {
-    border-color: red;
+    background-color: red;
 }
 
 .intro-container {
-    border-color: green;
+    background-color: green;
 }
 
 .random-info-container {
-    border-color: aqua;
+    background-color: aqua;
 }
 
 .quote-container {
-    border-color: black;
+    background-color: black;
 }
 
 .signup-container {
-    border-color: violet;
+    background-color: violet;
 }
 
 .footer-container {
-    border-color: blue;
+    background-color: blue;
 }
