@@ -1,5 +1,5 @@
 body {
-    font: roberto;
+    font: 'Roboto', sans-serif;
 }
 
 .header {
@@ -11,6 +11,12 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+.nav-home {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 
 .page-container {
     background-color: red;
