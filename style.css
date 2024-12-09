@@ -27,28 +27,3 @@ a {
     display: flex;
     gap: 20px;
 }
-
-
-.page-container {
-    background-color: red;
-}
-
-.intro-container {
-    background-color: green;
-}
-
-.random-info-container {
-    background-color: aqua;
-}
-
-.quote-container {
-    background-color: black;
-}
-
-.signup-container {
-    background-color: violet;
-}
-
-.footer-container {
-    background-color: blue;
-}
