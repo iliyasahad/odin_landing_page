@@ -1,0 +1,32 @@
+body {
+    font: roberto;
+}
+
+.nav-bar-container {
+    border-color: #1F2937;
+    display: flex;
+}
+
+.page-container {
+    border-color: red;
+}
+
+.intro-container {
+    border-color: green;
+}
+
+.random-info-container {
+    border-color: aqua;
+}
+
+.quote-container {
+    border-color: black;
+}
+
+.signup-container {
+    border-color: violet;
+}
+
+.footer-container {
+    border-color: blue;
+}
