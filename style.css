@@ -38,3 +38,8 @@ a {
     color: #F9FAF8;
     font-weight: 900;
 }
+
+.left-col p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
