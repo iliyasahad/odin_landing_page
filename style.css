@@ -13,7 +13,7 @@ a {
 
 .header {
     background-color: #1F2937;
-    padding: 5px 400px;
+    padding: 15px 300px;
 }
 .nav-bar {
     display: flex;
@@ -34,6 +34,8 @@ a {
 
 .hero-container {
     display: flex;
+    gap: 20px;
+    padding: 20px;
 }
 
 .left-col h1 {
