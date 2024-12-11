@@ -51,5 +51,9 @@ a {
     border-radius: 4px;
     font-weight: bold;
     padding: 5px 15px;
+}
 
+.right-col img {
+    height: 400px;
+    width: 800px;
 }
