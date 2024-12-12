@@ -71,3 +71,11 @@ a {
     height: 250px;
     width: 400px;
 }
+
+.information-container {
+    color: #1F2937;
+}
+
+.information-container h2 {
+    font-weight: 900;
+}
