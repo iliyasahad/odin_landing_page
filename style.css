@@ -39,15 +39,22 @@ a {
     padding: 20px;
 }
 
+.left-col,
+.right-col {
+    width: 444px;
+}
+
 .left-col h1 {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin: 0;
 }
 
 .left-col p {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0;
 }
 
 .button {
