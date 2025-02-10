@@ -95,3 +95,8 @@ a {
     border: 5px solid #3882F6;
     border-radius: 10px;
 }
+
+.info {
+    text-align: center;
+    max-width: 150px;
+}
