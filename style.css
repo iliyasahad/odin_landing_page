@@ -74,8 +74,19 @@ a {
 
 .information-container {
     color: #1F2937;
+    margin: 10px;
+    padding: 10px;
 }
 
 .information-container h2 {
     font-weight: 900;
+    justify-content: center;
+}
+
+.illustrations {
+    display: flex;
+    justify-content: space-between;
+    border-color: #3882F6;
+    height: 300px;
+    width: 600px;
 }
